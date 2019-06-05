@@ -1,0 +1,11 @@
+ListOfProjects(on github)
+
+website with the list of projects
+
+try a webshop
+- german-danish app
+- campus explorer(ubcx)
+- space invader(tumx)
+- nodejs
+- reactjs
+- react native
