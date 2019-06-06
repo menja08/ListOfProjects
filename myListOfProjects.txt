@@ -2,10 +2,17 @@ ListOfProjects(on github)
 
 website with the list of projects
 
-try a webshop
+- job application website that explains my projects [june2019]
+- try a webshop
 - german-danish app
 - campus explorer(ubcx)
 - space invader(tumx)
-- nodejs
+- nodejs []
 - reactjs
+[
+ReactPenX
+ReactBasics
+ReactEdx
+ReactTutorial
+]
 - react native
