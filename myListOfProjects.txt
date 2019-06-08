@@ -20,3 +20,6 @@ ReactTutorial
 - myVideos with NodeJS, ReactJS, D3JS
 - create an archive page with projects(also uses tags for searching)
 - my stack or need to learn; graphql, containers(udacity)
+- c programming
+- hardware/software interface
+- android
