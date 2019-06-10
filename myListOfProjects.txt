@@ -23,3 +23,4 @@ ReactTutorial
 - c programming
 - hardware/software interface
 - android
+- physics chemistry biology math probability linear algebra calculus archive notes
