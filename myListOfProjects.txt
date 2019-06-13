@@ -21,6 +21,7 @@ ReactTutorial
 - create an archive page with projects(also uses tags for searching)
 - my stack or need to learn; graphql, containers(udacity)
 - c programming
-- hardware/software interface
+- hardware/software interface, computation structures, compilers, computer architecture
+- debugging, testing(udacity), testing(delftX)
 - android
 - physics chemistry biology math probability linear algebra calculus archive notes
