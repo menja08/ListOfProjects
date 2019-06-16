@@ -25,3 +25,6 @@ ReactTutorial
 - debugging, testing(udacity), testing(delftX)
 - android
 - physics chemistry biology math probability linear algebra calculus archive notes
+- implementations of programs in typescript, java, javascript(ES5, ES6) [
+romanNumeral converter
+]
