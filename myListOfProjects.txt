@@ -1,5 +1,6 @@
 ListOfProjects(on github)
 
+eclipse --> cd /usr/local/eclipse; then run ./eclipse
 website with the list of projects
 
 - job application website that explains my projects [june2019]
