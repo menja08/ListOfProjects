@@ -24,8 +24,9 @@ ReactTutorial
 - c programming
 - hardware/software interface, computation structures, compilers, computer architecture
 - debugging, testing(udacity), testing(delftX)
-- android
+- android(developing android apps, advanced android apps, software development process; all on udacity, android docs tutorial)
 - physics chemistry biology math probability linear algebra calculus archive notes
 - implementations of programs in typescript, java, javascript(ES5, ES6), python [
 romanNumeral converter
 ]
+- build a simple CMS for creating a website
